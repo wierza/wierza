@@ -1,45 +1,60 @@
-<h1 align="center">Dawid Wierzycki - Junior Full Stack Developer</h1>
+<h1 align="center">Cześć, jestem Dawid 👋</h1>
 
-<div align="center"> 
-  <a href="https://linkedin.com/in/www.linkedin.com/in/dawid-wierzycki" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="30" margin-top="5" alt="linkedin logo"  /></a>
-</div>
+<p align="center">
+  <b>Robię strony i sklepy internetowe dla firm.</b><br>
+  Full Stack Developer · współtwórca agencji marketingowej <a href="https://instapara.pl">InstaPara</a> · Dolny Śląsk i Wielkopolska
+</p>
 
+<p align="center">
+  <a href="https://dawidwierzycki.pl"><img src="https://img.shields.io/badge/Portfolio-dawidwierzycki.pl-c4532f?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/dawid-wierzycki/"><img src="https://img.shields.io/badge/LinkedIn-Dawid_Wierzycki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/dawid.wierzycki/"><img src="https://img.shields.io/badge/Instagram-@dawid.wierzycki-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:dawid@wierzycki.pl"><img src="https://img.shields.io/badge/E--mail-dawid@wierzycki.pl-16201b?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8415F7&random=false&width=435&lines=%F0%9F%91%8B+Hello!+I'm+Dawid.)](https://git.io/typing-svg)
+---
 
-<img align="right" alt="GIF" src="https://github.com/wierza/wierza/blob/main/code.gif" width="450" height="310" />
-  
-<p  align="left"> I graduated Fullstack Developer bootcamp. I have a passion for programming and new technologies. My heart beats for JavaScript and React – these technologies have allowed me to create dynamic and interactive web applications.
+### 🧭 Czym się zajmuję
 
-Through the course, I have gained solid foundations in both front-end and back-end development. Now, I aim to continue my coding journey, constantly deepening my knowledge and skills. I am not afraid of challenges and always strive to excel in what I do.
+- **Strony dla firm** gotowe w 7 dni: szybkie, dopasowane do telefonu, z formularzem albo rezerwacjami online.
+- **Sklepy internetowe** na WooCommerce: płatności BLIK, kartą, Apple Pay i Google Pay, automatyczne faktury i maile.
+- **Integracje:** Stripe, iFirma, MailerLite, Cal.com, Google Analytics 4, piksel Meta, tryb zgody Google.
+- **Rzeczy w kodzie:** strony i aplikacje w Next.js i React, API w Node.js i NestJS, bazy danych.
+- **RODO i SEO na start:** polityka prywatności, baner cookies, dane strukturalne, Search Console.
 
-I am open to collaboration and ready to participate in exciting projects that will allow me to grow as a developer. Feel free to check out my projects on GitHub and reach out for potential callaboration! </p>
+Ukończyłem 800-godzinny bootcamp **Full Stack Developer Plus** w Kodilli (2023–2024). Na co dzień łączę programowanie z marketingiem, dlatego projektuję strony tak, żeby przyprowadzały klientów, a nie tylko ładnie wyglądały.
 
-<h3 align="left">🛠️ Languages and tools:</h3>
+### 🚀 Wybrane realizacje
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+| Projekt | Co pokazuje | Technologie |
+|---|---|---|
+| [**sklep.instapara.pl**](https://sklep.instapara.pl) | Sklep z e-bookiem: płatność BLIK, automatyczna wysyłka pliku, faktura z iFirmy, zapis do newslettera | WordPress, WooCommerce, Stripe, PHP |
+| [**instapara.pl**](https://instapara.pl) | Strona agencji: podstrony branżowe, blog, rezerwacje rozmów, 3 wersje językowe | Next.js, React, Tailwind, Framer Motion |
+| [**dawidwierzycki.pl**](https://dawidwierzycki.pl) | Portfolio z kalkulatorem wyceny, kalendarzem Cal.com i 4 działającymi konceptami stron | Next.js, TypeScript, Tailwind |
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,html,css,sass,bootstrap,jest)](https://skillicons.dev)
+👉 Koncepty do przetestowania (rezerwacja stolika, kalendarz konsultacji, koszyk z BLIK): **[dawidwierzycki.pl/#koncepcje](https://dawidwierzycki.pl/#koncepcje)**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
+### 🧩 Projekty z GitHuba
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,prisma,mysql)](https://skillicons.dev)
+| Repozytorium | Co robi | Stack |
+|---|---|---|
+| [Project_Pizzeria](https://github.com/wierza/Project_Pizzeria) | Zamawianie dań i rezerwacja stolika | JavaScript |
+| [ads-board](https://github.com/wierza/ads-board) | Tablica ogłoszeń z kontami użytkowników, sesjami i wgrywaniem zdjęć | React, Redux, Express, MongoDB |
+| [wine-store](https://github.com/wierza/wine-store) | Sklep internetowy z koszykiem i zamówieniami | React, Redux, NestJS, Prisma |
+| [books-app-nestJs](https://github.com/wierza/books-app-nestJs) | Aplikacja z REST API i bazą danych | NestJS, TypeScript, Prisma |
+| [chat-app](https://github.com/wierza/chat-app) | Czat w czasie rzeczywistym | Node.js, Express, Socket.IO |
+| [OAuthApp](https://github.com/wierza/OAuthApp) | Logowanie przez konto Google | Express, Passport, OAuth 2.0 |
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,webpack,postman,netlify,vscode)](https://skillicons.dev)
+### 🛠️ Technologie
 
-<h3 align="left">🔥 My stats:</h3>
+[![Frontend](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nextjs)](https://skillicons.dev)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wierza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wierza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent" height="150" alt="languages graph"  />
-</div>
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,php,wordpress,mongodb,mysql,prisma)](https://skillicons.dev)
 
-<h3 align="left">☕️ Support:</h3>
+[![Narzędzia](https://skillicons.dev/icons?i=git,github,webpack,postman,jest,netlify,vscode)](https://skillicons.dev)
 
-<p><a href="https://www.buymeacoffee.com/wierza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wierza" /></a></p><br><br>
+### 💬 Współpraca
 
-<h3 align="center"> 👀 Views:</h3>
+Potrzebujesz strony albo sklepu dla swojej firmy? Sprawdź cennik i policz wycenę w 30 sekund na **[dawidwierzycki.pl](https://dawidwierzycki.pl)** albo umów 20 minut rozmowy: **[dawidwierzycki.pl/#rozmowa](https://dawidwierzycki.pl/#rozmowa)**.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/wierza/count.svg?"  />
-</div>
+<sub>🇬🇧 Full Stack Developer building websites and online stores for small businesses (Next.js, React, Node.js, WordPress, WooCommerce). Based in Poland. Contact: dawid@wierzycki.pl</sub>
